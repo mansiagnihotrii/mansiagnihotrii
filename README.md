@@ -1,5 +1,8 @@
 ### Hi there, I'm [Mansi!](https://pyprogr.github.io) 👋
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pyprogr/count.svg" />
+</p>
 <a href="https://www.linkedin.com/in/ladyycoder/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/linkedin.svg" />
 </a>
