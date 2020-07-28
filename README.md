@@ -1,8 +1,5 @@
 ### Hi there, I'm [Mansi!](https://pyprogr.github.io) 👋
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pyprogr/count.svg" />
-</p>
+
 <a href="https://www.linkedin.com/in/ladyycoder/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/linkedin.svg" />
 </a>
@@ -40,5 +37,8 @@ Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=pyprogr&show_icons=true&theme=radical)](https://github.com/pyprogr/github-readme-stats)
-
+<p align="center"> 
+  Visitors' Count<br>
+  <img src="https://profile-counter.glitch.me/pyprogr/count.svg" />
+</p>
 
