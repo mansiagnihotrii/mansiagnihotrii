@@ -12,7 +12,10 @@
 <a href="https://www.hackerrank.com/Pyprogr">
   <img align="left" width="21px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/iconfinder_160_Hackerrank_logo_logos_4373234.svg" />
 </a>
-![](https://komarev.com/ghpvc/?username=pyprogr&label=VIEW+COUNTER)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=pyprogr&label=VIEW+COUNTER" />
+</p>
+
 
 <br />
 <br />
@@ -37,9 +40,6 @@ Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=pyprogr&show_icons=true&theme=radical)](https://github.com/pyprogr/github-readme-stats)
-<p align="center"> 
-  Visitors' Count<br>
-  <img src="https://profile-counter.glitch.me/pyprogr/count.svg" />
-</p>
+
 
 
