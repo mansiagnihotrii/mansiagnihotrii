@@ -15,7 +15,7 @@
 <br />
 <br />
 <p > 
-  <img src="https://komarev.com/ghpvc/?username=pyprogr&color=bright-green&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=pyprogr&color=brightgreen&style=plastic" />
 </p>
 Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
 
