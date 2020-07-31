@@ -20,7 +20,7 @@
 Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
 
 
-- 🔭 I’m currently working on my project [Doggram](https://github.com/pyprogr/doggram-instagram-clone)
+- 🔭 I’m currently working on my project [Street Dog Helper](https://github.com/pyprogr/stree-dog-helper)
 - 🌱 I’m currently learning MERN and Angular JS.
 - 👯 I’m looking to collaborate on [e-poller](https://github.com/pyprogr/e-poller)
 - 💬 Ask me about anything [here](https://github.com/pyprogr/pyprogr/issues)
