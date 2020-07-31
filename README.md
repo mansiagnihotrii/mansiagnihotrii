@@ -12,15 +12,11 @@
 <a href="https://www.hackerrank.com/Pyprogr">
   <img align="left" width="21px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/iconfinder_160_Hackerrank_logo_logos_4373234.svg" />
 </a>
+<br />
+
 <p > 
   <img src="https://komarev.com/ghpvc/?username=pyprogr&style=plastic" />
 </p>
-
-
-<br />
-<br />
-
-
 Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
 
 
