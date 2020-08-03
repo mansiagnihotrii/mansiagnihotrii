@@ -18,6 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=pyprogr&color=brightgreen&style=plastic" />
 </p>
 Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
+I do Competitive Programming ! 
 
 
 - 🔭 I’m currently working on my project [Street Dog Helper](https://github.com/pyprogr/stree-dog-helper)
