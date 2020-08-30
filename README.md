@@ -38,6 +38,6 @@ I do Competitive Programming ! Connect with me, if you do CP too ! :)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=pyprogr&show_icons=true&theme=radical)](https://github.com/pyprogr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyprogr&layout=compact&theme=radical)](https://github.com/pyprogr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyprogr&layout=compact&theme=radical&hide=css)](https://github.com/pyprogr/github-readme-stats)
 
 
