@@ -39,7 +39,7 @@ I do Competitive Programming ! Connect with me, if you do CP too ! :)
 <img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 </p>
 
 [![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=pyprogr&show_icons=true&theme=radical)](https://github.com/pyprogr/github-readme-stats)
