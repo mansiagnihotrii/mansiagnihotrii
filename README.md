@@ -1,4 +1,4 @@
-### Hi there, I'm [Mansi!](https://pyprogr.github.io) 👋
+### Hi there, I'm [Mansi!](https://mansiagnihotri.me) 👋
 
 <a href="https://www.linkedin.com/in/ladyycoder/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/linkedin.svg" />
