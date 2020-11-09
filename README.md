@@ -1,9 +1,9 @@
 ### Hi there, I'm [Mansi!](https://mansiagnihotri.me) 👋
 
-<a href="https://www.linkedin.com/in/ladyycoder/">
+<a href="https://www.linkedin.com/in/mansiagnihotrii/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/yeaclassy">
+<a href="https://www.facebook.com/mansiagnihotrii">
   <img align="left" width="21px" src="https://raw.githubusercontent.com/pyprogr/pyprogr/master/icons/facebook.svg" />
 </a>
 <a href="https://ladyycoder.wordpress.com/">
@@ -18,16 +18,16 @@
 <br />
 <br />
 <p > 
-  <img src="https://komarev.com/ghpvc/?username=pyprogr&color=brightgreen&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=mansiagnihotrii&color=brightgreen&style=plastic" />
 </p>
 Hi, I'm Mansi, a passionate self-taught fullStack web developer from India.
 I do Competitive Programming ! Connect with me, if you do CP too ! :)
 
 
-- 🔭 I’m currently working on my project [Dog Home](https://github.com/pyprogr/dog-home)
+- 🔭 I’m currently working on my project [Dog Home](https://github.com/mansiagnihotrii/dog-home)
 - 🌱 I’m currently learning MERN and Angular JS.
-- 👯 I’m looking to collaborate on [e-poller](https://github.com/pyprogr/e-poller)
-- 💬 Ask me about anything [here](https://github.com/pyprogr/pyprogr/issues)
+- 👯 I’m looking to collaborate on [e-poller](https://github.com/mansiagnihotrii/e-poller)
+- 💬 Ask me about anything [here](https://github.com/mansiagnihotrii/mansiagnihotrii/issues)
 - 📫 Reach me: [mansiagnicse@gmail.com](mailto:mansiagnicse@gmail.com)
 
 
@@ -45,7 +45,7 @@ I do Competitive Programming ! Connect with me, if you do CP too ! :)
 <img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 </p>
 
-[![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=pyprogr&show_icons=true&theme=radical)](https://github.com/pyprogr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyprogr&layout=compact&theme=radical&hide=css)](https://github.com/pyprogr/github-readme-stats)
+[![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=mansiagnihotrii&show_icons=true&theme=radical)](https://github.com/mansiagnihotrii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansiagnihotrii&layout=compact&theme=radical&hide=css)](https://github.com/mansiagnihotrii/github-readme-stats)
 
 
